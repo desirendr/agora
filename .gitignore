@@ -1,1 +1,3 @@
 .idea/
+app/config/server.php
+app/config/db.inc.php
