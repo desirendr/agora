@@ -14,4 +14,4 @@ if(defined('DEBUG') && DEBUG) {
     error_reporting(0);
 }
 
-echo "hello test";
+echo "hello prod";
